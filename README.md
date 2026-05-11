@@ -50,8 +50,8 @@ open up localhost:
 ```
 
 # Techstack Used:
-Python
-LangChain
-Flask
-GPT
-Pinecone
+* Python
+* LangChain
+* Flask
+* GPT
+* Pinecone
